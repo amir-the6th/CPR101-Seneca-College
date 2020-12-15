@@ -1,0 +1,2 @@
+D:\Seneca stuff\CPR101\CP4P_Week5_Activity\MidBugTest_VS_Project\Debug\MidBugTest.exe
+D:\Seneca stuff\CPR101\CP4P_Week5_Activity\MidBugTest_VS_Project\Debug\MidBugTest.pdb
